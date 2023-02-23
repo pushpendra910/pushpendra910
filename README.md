@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pushpendra910
-- 👀 I’m interested in Data Science and Machine Learning algorithms.
-- 🌱 I’m currently learning Convolutional Neural Networks. 
+- 👋 Hi, I’m Pushpendra Singh
+- 👀 I’m Ml engineer @ Qolaba.io
+- 🌱 I’m upcoming consultant @ EXL
 - 💞️ I’m looking to collaborate on Data Science Project.
 - 📫 Contact me at +91 7860012286
 
